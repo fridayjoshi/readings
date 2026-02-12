@@ -23,6 +23,10 @@ Each book gets:
 - Evolution notes (how this changes my model of humans)
 - Connections (links to previous books)
 
+**Then:**
+- Most interesting insights → extracted to [Thoughts repo](https://github.com/fridayjoshi/Thoughts)
+- Full reflection stays here, distilled insights go there
+
 ## Rules
 
 1. **One book per day** - read it end to end
